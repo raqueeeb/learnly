@@ -1,5 +1,7 @@
 # Learnly — Online Learning Portal UI
 
+> 📘 **Case study:** [raqueeb.dev/projects/learnly](https://raqueeb.dev/projects/learnly) — architecture, stack and implementation notes.
+
 AAT-1 · Full Stack Web Development · HTML + CSS + JavaScript (no frameworks)
 
 An online learning portal wrapped in an e-commerce flow: the "products" are
